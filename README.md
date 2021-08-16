@@ -4,7 +4,7 @@ Languages:
 Lua
 
 Projects I'm working on currently:
-None ATM
+Nothing ATM
 
 Contacts: 
 ApeX2KK#8770 on Discord

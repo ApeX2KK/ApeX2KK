@@ -7,5 +7,5 @@ Projects I'm working on currently:
 ∙ None ATM
 
 Contacts: 
-∙ApeX2KK#8770 on Discord
+ApeX2KK#8770 on Discord
 

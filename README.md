@@ -1,4 +1,4 @@
-Lead Developer & Founder @ GangV
+Developer 
 
 Languages:
 ∙ Lua

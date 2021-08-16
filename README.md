@@ -1,7 +1,11 @@
-### Hi there 👋
+Lead Developer & Founder @ GangV
 
-<!--
-**ApeX2KK/ApeX2KK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages:
+∙ Lua
 
-My name is Daniel 
+Projects I'm working on currently:
+∙ None ATM
+
+Contacts: 
+∙ApeX2KK#8770 on Discord
 

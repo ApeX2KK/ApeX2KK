@@ -2,7 +2,7 @@
 - A FiveM Developer :sparkles:
 
 # My Github stats
-![ApeX2KK GitHub stats](https://github-readme-stats.vercel.app/api?username=apex2kk-ux&hide=issues&show_icons=true&theme=gotham)
+![ApeX2KK GitHub stats](https://github-readme-stats.vercel.app/api?username=apex2kk&hide=issues&show_icons=true&theme=gotham)
 
 <p>Connect with me on
 <br>	

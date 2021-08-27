@@ -6,7 +6,7 @@
 
 <p>Connect with me on
 <br>	
-<a target="_blank" href="https://twitter.com/t_sreevishnu"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/ApeX2KK"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
 

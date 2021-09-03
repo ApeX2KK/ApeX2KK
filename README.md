@@ -1,4 +1,4 @@
-Lead Developer & Founder @ [GangV]
+Lead Developer & Founder @ [StreetLifeRP]
 
 Languages:
 - Lua

@@ -1,4 +1,4 @@
-Lead Developer & Founder @ [StreetLifeRP]
+Lead Developer & Founder @[StreetLifeRP]
 
 Languages:
 - Lua
